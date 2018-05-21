@@ -1,5 +1,6 @@
 # DbTrace
-Aspectize Extension to trace to Azure Storage
+Aspectize Extension to trace to Azure Storage.
+By default, trace is done to a file in your Application Directory. Using DBTrace allows you to store Trace in your Data Storage.
 
 # 1 - Download
 
